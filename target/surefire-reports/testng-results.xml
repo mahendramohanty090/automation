@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HOOQ" duration-ms="68657" started-at="2020-11-24T21:07:42Z" finished-at="2020-11-24T21:08:50Z">
+    <groups>
+    </groups>
+    <test name="Grouping" duration-ms="68657" started-at="2020-11-24T21:07:42Z" finished-at="2020-11-24T21:08:50Z">
+      <class name="auto.qa.test.JupiterTest">
+        <test-method status="PASS" signature="fnBeforeSuite()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnBeforeSuite" is-config="true" duration-ms="10116" started-at="2020-11-25T02:37:32Z" finished-at="2020-11-25T02:37:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnBeforeSuite -->
+        <test-method status="PASS" signature="fnBeforeTest(java.lang.String, java.lang.reflect.Method)[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnBeforeTest" is-config="true" duration-ms="6115" started-at="2020-11-25T02:37:42Z" finished-at="2020-11-25T02:37:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void auto.qa.test.JupiterTest.fnTest1() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnBeforeTest -->
+        <test-method status="PASS" signature="fnTest1()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnTest1" duration-ms="24358" started-at="2020-11-25T02:37:48Z" finished-at="2020-11-25T02:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnTest1 -->
+        <test-method status="PASS" signature="fnAfterTest()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnAfterTest" is-config="true" duration-ms="57" started-at="2020-11-25T02:38:12Z" finished-at="2020-11-25T02:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnAfterTest -->
+        <test-method status="PASS" signature="fnBeforeTest(java.lang.String, java.lang.reflect.Method)[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnBeforeTest" is-config="true" duration-ms="5295" started-at="2020-11-25T02:38:12Z" finished-at="2020-11-25T02:38:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void auto.qa.test.JupiterTest.fnTest2() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnBeforeTest -->
+        <test-method status="PASS" signature="fnTest2()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnTest2" duration-ms="18988" started-at="2020-11-25T02:38:18Z" finished-at="2020-11-25T02:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnTest2 -->
+        <test-method status="PASS" signature="fnAfterTest()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnAfterTest" is-config="true" duration-ms="48" started-at="2020-11-25T02:38:37Z" finished-at="2020-11-25T02:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnAfterTest -->
+        <test-method status="PASS" signature="fnBeforeTest(java.lang.String, java.lang.reflect.Method)[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnBeforeTest" is-config="true" duration-ms="5340" started-at="2020-11-25T02:38:37Z" finished-at="2020-11-25T02:38:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void auto.qa.test.JupiterTest.fnTest3() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnBeforeTest -->
+        <test-method status="PASS" signature="fnTest3()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnTest3" duration-ms="8407" started-at="2020-11-25T02:38:42Z" finished-at="2020-11-25T02:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnTest3 -->
+        <test-method status="PASS" signature="fnAfterTest()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnAfterTest" is-config="true" duration-ms="44" started-at="2020-11-25T02:38:50Z" finished-at="2020-11-25T02:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnAfterTest -->
+        <test-method status="PASS" signature="fnAfterSuite()[pri:0, instance:auto.qa.test.JupiterTest@4de8b406]" name="fnAfterSuite" is-config="true" duration-ms="718" started-at="2020-11-25T02:38:50Z" finished-at="2020-11-25T02:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnAfterSuite -->
+      </class> <!-- auto.qa.test.JupiterTest -->
+    </test> <!-- Grouping -->
+  </suite> <!-- HOOQ -->
+</testng-results>

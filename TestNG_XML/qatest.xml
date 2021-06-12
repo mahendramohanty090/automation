@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MUVI" allow-return-values="true" verbose="2">
+	<test name="Grouping" preserve-order="true">
+		<parameter name="BROWSER" value="Chrome" />
+		<classes>
+			<class name="auto.qa.test.ContentTest">
+			</class>
+		</classes>
+	</test>
+</suite>
